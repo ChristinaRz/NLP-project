@@ -1,7 +1,17 @@
+# Python
 __pycache__/
 *.pyc
-outputs/__pycache__/
+
+# Outputs (generated files)
+outputs/*.csv
+outputs/*.png
+outputs/*.txt
+
+# Documentation (not tracked)
 *.doc
 *.docx
 *.pdf
 ~$*
+
+# OS
+.DS_Store
