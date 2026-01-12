@@ -1,3 +1,7 @@
 __pycache__/
 *.pyc
 outputs/__pycache__/
+*.doc
+*.docx
+*.pdf
+~$*
