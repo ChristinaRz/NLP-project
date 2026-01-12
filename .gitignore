@@ -1,4 +1,34 @@
-outputs/ 
-__pycache__/ 
-*.pyc 
-.venv/ 
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --------------------
+# Virtual environments
+# --------------------
+.venv/
+venv/
+env/
+
+# --------------------
+# Project outputs
+# --------------------
+outputs/
+
+# --------------------
+# OS / Editor files
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# Jupyter (αν ποτέ χρησιμοποιηθεί)
+# --------------------
+.ipynb_checkpoints/
+
+# --------------------
+# Logs / temp
+# --------------------
+*.log
