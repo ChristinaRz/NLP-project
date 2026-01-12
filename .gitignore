@@ -1,17 +1,4 @@
-# Python
-__pycache__/
-*.pyc
-
-# Outputs (generated files)
-outputs/*.csv
-outputs/*.png
-outputs/*.txt
-
-# Documentation (not tracked)
-*.doc
-*.docx
-*.pdf
-~$*
-
-# OS
-.DS_Store
+outputs/ 
+__pycache__/ 
+*.pyc 
+.venv/ 
