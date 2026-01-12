@@ -33,29 +33,25 @@ NLP-project/
 ├── README.md
 └── .gitignore
 
-All scripts are executed from the project root using python -m
 
-The outputs/ folder is excluded from version control
+---
 
-Results are reproducible (fixed seeds where applicable)
+## Notes
+- All scripts are executed from the project root using `python -m`
+- The `outputs/` folder is excluded from version control
+- Results are reproducible (fixed seeds where applicable)
 
-Dependencies
+---
+
+## Dependencies
 Indicative libraries used:
+- transformers  
+- torch  
+- sentence-transformers  
+- scikit-learn  
+- gensim  
+- language-tool-python  
+- stanza  
+- pandas  
+- matplotlib  
 
-transformers
-
-torch
-
-sentence-transformers
-
-scikit-learn
-
-gensim
-
-language-tool-python
-
-stanza
-
-pandas
-
-matplotlib
