@@ -1,7 +1,0 @@
-Text,Pipeline,CosineSimilarity,OriginalLengthChars,ReconstructedLengthChars
-TEXT1,LanguageTool,1.0,500,500
-TEXT1,T5 (flan-t5-base),0.8984,500,257
-TEXT1,BART (bart-large-cnn),0.8097,500,207
-TEXT2,LanguageTool,0.9966,545,551
-TEXT2,T5 (flan-t5-base),0.9835,545,510
-TEXT2,BART (bart-large-cnn),0.3834,545,227
